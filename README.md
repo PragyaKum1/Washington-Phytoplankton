@@ -1,2 +1,2 @@
 # Washington-Phytoplankton
-I worked on this project in 2024 to classify various phytoplankton species with tensorflow and keras. 
+I worked on this project in 2024 to classify various phytoplankton species with tensorflow and keras. This project involved training a model for phytoplankton species identification using 8 years of data. I contributed to implementing the Convolutional Neural Network (CNN), You Only Look Once (YOLO) model for object detection, and Recurrent Neural Network (RNN) sections, focusing on improving model performance. The overall architecture was provided by the program organizer, and I collaborated closely with the team.
